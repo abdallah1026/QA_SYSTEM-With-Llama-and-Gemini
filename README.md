@@ -1,0 +1,1 @@
+Developed a QA system using Llama Index for document indexing and Google Gemini for embedding generation. Integrated Google Generative AI APIs for enhanced natural language processing. Displayed the system with an interactive Streamlit interface, enabling efficient information retrieval through a vector-based search mechanism.
