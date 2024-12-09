@@ -6,4 +6,3 @@ python-dotenv
 IPython
 llama-index-embeddings-gemini
 streamlit
-llama-index-setting
